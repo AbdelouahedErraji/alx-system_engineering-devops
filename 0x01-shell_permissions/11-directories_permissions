@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x $(ls)
+chmod ugo+x $(ls -d)
